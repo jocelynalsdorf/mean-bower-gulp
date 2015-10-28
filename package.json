@@ -22,6 +22,8 @@
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-less": "^3.0.3"
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2"
   }
 }
