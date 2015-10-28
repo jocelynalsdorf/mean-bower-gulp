@@ -10,4 +10,4 @@ angular.module('app.routes', ['ngRoute'])
     controllerAs: 'main'
   });
   $locationProvider.html5Mode(true);
-})
+});
