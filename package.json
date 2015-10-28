@@ -19,5 +19,9 @@
   "homepage": "https://github.com/jocelynalsdorf/mean-bower-gulp#readme",
   "dependencies": {
     "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3"
   }
 }
